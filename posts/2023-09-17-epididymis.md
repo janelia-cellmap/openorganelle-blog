@@ -1,35 +1,37 @@
 ---
 title: Mouse Epididymis
 summary: A peice of the male reproductive system
-thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/'
-carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/'
+thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/postoffice-mouse.png'
+carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/mouse-epididymis-carousel.png'
 tags: ["mouse", "epididymis", "reproductive biology"]
 authors: ["Diana Ramirez", "Zhen Chen", "Aubrey Weigel"]
 date: "2023-09-17T01:01"
-published: False
+published: True
 ---
-John Bogovic (Saalfeld Lab) and Aubrey Weigel (CellMap Project Team) traveled to Ventura, CA this summer for the [2023 Volume Electron Microscopy (vEM) Gordan Research Conference](https://www.grc.org/volume-electron-microscopy-conference/2023/). This very first GRC on vEM. It brought together an amazing community *in person* to exchange ideas, discuss the latest developments in the field, and stimulate new collaborations. It was and exciting and fulfilling conference and we're all excited for many more to come.
-![Group Photo](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/vem-group-2.png)
-John took part as a poster judge for trainees. Check out the winners of this year's poster presentations below:
-![Poster Winners](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/poster-winners.jpg)
+The mouse epididymis is a crucial postal sorting center for sperm in the male reproductive system. It's a long, winding tube located near each mouse testicle. Outstretched it can measure 20ft-23ft (6m-9m) in humans and ~0.25in (0.8mm) in mice<sup>1</sup>.
 
-Aubrey chaired the session on "Visualising and Sharing Big vEM Data" in which key methods and technologies 
-for volume EM data were presented and discussed. These included the [BioImage archive](https://www.ebi.ac.uk/bioimage-archive/),
-[BigDataViewer](https://www.nature.com/articles/nmeth.3392), [OME-Zarr](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9980008/), and
-[Empanada](https://volume-em.github.io/empanada.html). 
+![Sperm are like delivery workers](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/postoffice-mouse.png)
 
-John presented a talk titled "Toward Accessible, Scalable, and Interoperable Image Registration with BigWarp", describing 
-new developments in [BigWarp](https://imagej.net/plugins/bigwarp), and how scientists at Janelia and in CellMap have used it
-to solve their registration problems.
+Its primary job is to store and refine sperm. You see, when sperm first leave the testicles, they're kind of like rookie delivery workers—they're not ready to fertilize an egg. But as they travel through the epididymis, this place acts like a training ground, helping the sperm mature and get ready for their big mission: fertilization. Think of it as a school where they learn the ropes. Plus, the epididymis also serves as a highway, transporting the now well-trained sperm to where they need to be when it's time to make a baby. In other words, it's like a sperm finishing school and delivery service rolled into one, making sure the little swimmers are all set for their important job in the body.
 
-Not only were new collaborations and friendships made, but the conference was also an excellent opportunity to meet collaborators in person for the first time! John has worked with Norman Rzepka ([scalable minds](https://scalableminds.com)) and Josh Moore ([GerBI-GMB](https://gerbi-gmb.de)) fairly extensively. They've even written a paper together<sup>1</sup> but only interacted virtually to date. The group took advantage of the beautiful California scenery during the breaks and even went surfing.
-![OME-Zarr Gang](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/josh-john-norman.jpg)![Surfing](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/vem-grc-surf.png)
+![Male mouse reproductive system](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/anatomy-mouse-epididymis.png)
 
+Imaging the ultrastructure of the mouse epididymis provides researchers with a powerful tool to gain valuable insights into its function and how it contributes to male fertility. A powerful imaging tool is Focused Ion Beam Scanning Electron Microsocpy (FIB-SEM), the main microscopy tool presented on this data portal. By using imaging techniques such as this, scientists can capture highly detailed images of the epididymal tissue at a microscopic level. This allows them to visualize the intricate cellular and structural components of the epididymis, such as the various cell types, microvilli, cilia, and specialized cells responsible for sperm maturation.
 
+![FIB-SEM of mouse epididymis](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/jrc_mus_epididymis_1-s3_invert.png)
+
+These detailed images enable researchers to:
+1.	*Characterize Cellular Interactions*: Observing the ultrastructure helps researchers understand how different cell types within the epididymis interact with sperm. For example, they can see how sperm interact with epithelial cells and the unique microenvironment they encounter during their maturation journey.
+2.	*Identify Anomalies and Pathologies*: Ultrastructural imaging can reveal any abnormalities or pathologies in the epididymal tissue. Researchers can identify structural defects, inflammation, or other issues that may affect sperm maturation and male fertility.
+3.	*Study Functional Mechanisms*: By visualizing the ultrastructure, researchers can investigate the fine details of cellular and molecular processes within the epididymis. This can lead to a better understanding of the mechanisms responsible for sperm maturation and transport.
+4.	*Assess the Impact of Interventions*: Researchers can use ultrastructural imaging to assess the effects of experimental treatments or interventions on the epididymis. This is critical for developing therapies to address male infertility or other reproductive health issues.
+
+Imaging the ultrastructure of the mouse epididymis provides a window into its inner workings, allowing researchers to unravel the complexities of sperm maturation and transport. This knowledge can lead to discoveries that improve our understanding of male fertility and guide the development of targeted treatments for reproductive health conditions.
+
+Explore more of the epididymis datasets available on OpenOrganelle in neuroglancer:
+[jrc_mus-epididymis-1](https://openorganelle.janelia.org/datasets/jrc_mus-epididymis-1)
+[jrc_mus-epididymis-2](https://openorganelle.janelia.org/datasets/jrc_mus-epididymis-2)
 
 ## References
 Nakata H, Iseki S. Three-dimensional structure of efferent and epididymal ducts in mice. J Anat. 2019 Aug;235(2):271-280. doi: 10.1111/joa.13006. Epub 2019 May 30. PMID: 31148153; PMCID: PMC6637445.
-Cornwall GA. New insights into epididymal biology and function. Hum Reprod Update. 2009 Mar-Apr;15(2):213-27. doi: 10.1093/humupd/dmn055. Epub 2009 Jan 8. PMID: 19136456; PMCID: PMC2639084. 
-Nakata H, Iseki S. Three-dimensional structure of efferent and epididymal ducts in mice. J Anat. 2019 Aug;235(2):271-280. doi: 10.1111/joa.13006. Epub 2019 May 30. PMID: 31148153; PMCID: PMC6637445.
-Cornwall GA. New insights into epididymal biology and function. Hum Reprod Update. 2009 Mar-Apr;15(2):213-27. doi: 10.1093/humupd/dmn055. Epub 2009 Jan 8. PMID: 19136456; PMCID: PMC2639084. 
-Scott A. Jelinsky, Terry T. Turner, Hyun J. Bang, Joshua N. Finger, Mark K. Solarz, Ewa Wilson, Eugene L. Brown, Gregory S. Kopf, Daniel S. Johnston, The Rat Epididymal Transcriptome: Comparison of Segmental Gene Expression in the Rat and Mouse Epididymides, Biology of Reproduction, Volume 76, Issue 4, 1 April 2007, Pages 561–570, https://doi.org/10.1095/biolreprod.106.057323
+Created with BioRender.com
