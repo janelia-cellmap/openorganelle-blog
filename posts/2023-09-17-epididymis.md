@@ -33,5 +33,5 @@ Explore more of the epididymis datasets available on OpenOrganelle in neuroglanc
 [jrc_mus-epididymis-2](https://openorganelle.janelia.org/datasets/jrc_mus-epididymis-2)
 
 ## References
-Nakata H, Iseki S. Three-dimensional structure of efferent and epididymal ducts in mice. J Anat. 2019 Aug;235(2):271-280. doi: 10.1111/joa.13006. Epub 2019 May 30. PMID: 31148153; PMCID: PMC6637445.
-Created with BioRender.com
+1. Nakata H, Iseki S. _Three-dimensional structure of efferent and epididymal ducts in mice._ J Anat. **2019**; 235(2):271-280. [DOI: 10.1111/joa.13006](https://doi.org/10.1111/joa.13006).
+2. Male mouse reproductive system figure created with BioRender.com
