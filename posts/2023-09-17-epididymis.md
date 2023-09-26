@@ -1,6 +1,6 @@
 ---
 title: Mouse Epididymis
-summary: A peice of the male reproductive system
+summary: A piece of the male reproductive system
 thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/postoffice-mouse-thumbnail.png'
 carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/mouse-epididymis-carousel.png'
 tags: ["mouse", "epididymis", "reproductive biology"]
