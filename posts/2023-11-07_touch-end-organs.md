@@ -6,7 +6,7 @@ carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blo
 tags: ["mouse", "skin", "hair follicle", "lanceolate complex", "Meissner corpuscle", "Pacinian corpuscle", "end organs"]
 authors: ["Aubrey Weigel"]
 date: "2023-11-07T01:01"
-published: False
+published: True
 ---
 
 Imagine your skin is like a big, soft, and flexible sheet covering your whole body. Touch end organs are like little sensors embedded in this sheet. These sensors help you feel things when you touch them.
