@@ -16,7 +16,8 @@ There are different types of touch end organs, each specialized for different th
 These sensors send messages to your brain when they sense something, and your brain interprets these messages to help you understand what you're touching or feeling. So, touch end organs are like the messengers that help your brain understand the world through the sense of touch.
 
 In a recent publication<sup>1</sup>, the [Ginty Lab](https://www.gintylab.hms.harvard.edu) at Harvard Medical School discusses how our skin sensors, called mechanosensory end organs, respond to light touches. They focused on three types of these sensors and found that a protein called Piezo2 is located on the nerve fibers connected to these sensors. When we touch something, the stretching of nerve fiber extensions activates Piezo2, helping us feel the touch. This study sheds light on how these sensors work during gentle touches.
-High-resolution reconstructions of the hair follicle lanceolate complex, Meissner corpuscle, and Pacinian corpuscle and the subcellular distribution of Piezo2 within them
+
+High-resolution reconstructions of the hair follicle lanceolate complex, Meissner corpuscle, and Pacinian corpuscle and the subcellular distribution of Piezo2 within them helped them to reach these conclusions.
 
 ![Rendering of cells in mouse gaurd hair follicle](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/mouse-hair.png)
 
