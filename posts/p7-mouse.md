@@ -1,0 +1,43 @@
+Title: Data Release: P7 Mouse Tissue
+Summary: Explore a comprehensive new dataset of high-resolution 3D volumes and machine learning-based segmentations from seven tissues in a single P7 mouse.
+Thumbnail URL: 'https://raw.githubusercontent.com/janelia/openorganelle-blog/main/assets/p7_mouse_data_release_banner.png'
+Carousel URL: 'https://raw.githubusercontent.com/janelia/openorganelle-blog/main/assets/p7_mouse_data_release_banner.png'
+Tags: ["FIB-SEM", "machine learning", "tissue microarchitecture", "3D imaging", "open data", "P7 mouse"]
+Authors: ["Aubrey Weigel"]
+Date: "2024-09-06T02:01"
+Published: False
+
+---
+
+![TEM images of mouse tissue samples](https://raw.githubusercontent.com/janelia/openorganelle-blog/main/assets/p7_mouse_data_release_1.png)
+
+We are pleased to announce the release of a new high-resolution dataset featuring the tissue microarchitecture of postnatal day 7 (P7) mice. This comprehensive data release provides 3D volumes and machine learning-generated segmentations of nuclei for seven key tissues—pancreas, liver, kidney, heart, thymus, hippocampus, and skin—captured using Focused Ion Beam Scanning Electron Microscopy (FIB-SEM). The dataset is now publicly available on [OpenOrganelle.org](https://openorganelle.org).
+
+### Why Study the P7 Mouse?
+
+The P7 developmental stage in mice is crucial for understanding the rapid growth and cellular differentiation that underpins organ development. Advanced imaging techniques like FIB-SEM allow for an unprecedented level of detail, providing insights into the complex tissue structures at this critical juncture.
+
+### What’s Included in the Release?
+
+This data release offers high-resolution 3D volumes alongside detailed segmentations of cellular structures, particularly nuclei, using machine learning models trained with Cellpose. These segmentations, paired with Transmission Electron Microscopy (TEM) images for quality control, offer a robust resource for researchers exploring tissue architecture.
+
+### Key Features of the Dataset
+
+- Seven Tissues from a Single P7 Mouse: The dataset includes tissues from the pancreas, liver, kidney, heart, thymus, hippocampus, and skin.
+- High-Resolution Imaging: FIB-SEM volumes captured at 8 nm isotropic resolution, allowing for detailed visualization of cellular microenvironments.
+- Machine Learning-Based Segmentations: Nuclei segmentations generated using Cellpose deep learning models, optimized for electron microscopy datasets.
+- Open Data for Collaboration: All data, including raw and segmented volumes, are available on OpenOrganelle.org for open exploration and further analysis.
+
+### Get Started with the Data
+
+This dataset provides an invaluable resource for researchers in developmental biology, tissue microarchitecture, and machine learning applications in biomedical imaging. You can explore the datasets and access the Cellpose models used for segmentation via the [OpenOrganelle website](https://openorganelle.org) and the [CellMap GitHub repository](https://github.com/janelia-cellmap/cellmap-models).
+
+We invite the scientific community to take advantage of this rich dataset to foster collaboration and innovation in the study of developmental biology and tissue organization.
+
+### Acknowledgements
+
+This release is the result of the collaborative efforts of the CellMap Project Team at HHMI Janelia, with generous support from the AWS Open Data program, which is hosting the dataset.
+
+---
+
+Let me know if you'd like any changes or additional details!
