@@ -13,7 +13,8 @@ The [CellMap Project Team](https://www.janelia.org/project-team/cellmap) is exci
 
 The challenge will feature nearly 300 meticulously annotated training crops from more than 20 eFIB-SEM datasets, covering over 40 unique organelle classes. These annotations have been expertly curated to support cutting-edge machine learning approaches in biological image analysis.
 
-Curious to learn more and stay updated? Sign up for email announcements to be the first to know when the challenge goes live: [cellmapchallenge.janelia.org](https://cellmapchallenge.janelia.org)
+Curious to learn more and stay updated? Sign up for email announcements to be the first to know when the challenge goes live: 
+# [cellmapchallenge.janelia.org](https://cellmapchallenge.janelia.org)
 
 Check out some example images below to get a sneak peek of the data you'll be working with. We're looking forward to seeing how you tackle this exciting challenge!
 
