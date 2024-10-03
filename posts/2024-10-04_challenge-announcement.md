@@ -19,3 +19,4 @@ Curious to learn more and stay updated? Sign up for email announcements to be th
 Check out some example images below to get a sneak peek of the data you'll be working with. We're looking forward to seeing how you tackle this exciting challenge!
 
 ![Annotated crops](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/crops.png)
+Volume renderings courtesty of Alyson Petruncio.
