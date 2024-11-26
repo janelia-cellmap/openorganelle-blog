@@ -16,7 +16,7 @@ published: False
 
 ## **Visualizing Data in Neuroglancer**
 
-![OpenOrganelle to Neuroglancer instance](
+![OpenOrganelle to Neuroglancer instance](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdata4.gif)
 
 Neuroglancer is a powerful browser-based tool that enables visualization of large datasets at a range of resolutions. Here’s how to explore OpenOrganelle datasets step-by-step:
 
