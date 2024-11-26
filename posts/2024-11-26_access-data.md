@@ -1,6 +1,6 @@
 ---
 title: Accessing Data
-summary: This guide covers two main tools for dataset interaction; Neuroglancer, a browser-based tool for multi-resolution navigation with advanced features, and Fiji, a desktop app for local visualization, processing, and format conversion. Python and AWS CLI also support programmatic access.
+summary: This guide covers two main tools for dataset interaction; Neuroglancer and Fiji. Python and AWS CLI also support programmatic access.
 thumbnail_url: ‘https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner.png’
 carousel_url: ‘https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner.png’
 tags: [“FIB-SEM”, “data visualization”, “data access”, “open organelle”, “open data”]
@@ -8,6 +8,7 @@ authors: [“Alyson Petruncio”]
 date: "2024-11-26T1:14"
 published: True
 ---
+
 # A Quick Guide to Accessing Data
 
 **So much data, so little time!** OpenOrganelle offers an incredible resource of large-scale, cloud-based datasets, including raw data and labels, for researchers worldwide. Whether you're visualizing these datasets in Neuroglancer or importing them into Fiji for advanced analysis, this guide will help you get started. Let’s dive into the tools and techniques for accessing, visualizing, and manipulating data on OpenOrganelle.
