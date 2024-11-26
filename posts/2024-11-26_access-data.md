@@ -1,6 +1,6 @@
 ---
 title: Accessing Data
-summary: This guide covers two main tools for dataset interaction; Neuroglancer and Fiji. Python and AWS CLI also support programmatic access.
+summary: Guide covering two main tools for dataset interaction, Neuroglancer and Fiji
 thumbnail_url: ‘https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner.png’
 carousel_url: ‘https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner.png’
 tags: [“FIB-SEM”, “data visualization”, “data access”, “open organelle”, “open data”]
