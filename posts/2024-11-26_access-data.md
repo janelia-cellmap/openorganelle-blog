@@ -3,9 +3,9 @@ title: Accessing Data
 summary: Guide covering two main tools for dataset interaction, Neuroglancer and Fiji
 thumbnail_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner.png
 carousel_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner.png
-tags: [“FIB-SEM”, “data visualization”, “data access”, “open organelle”, “open data”]
-authors: [“Alyson Petruncio”]
-date: "2024-11-26T1:14"
+tags: ['FIB-SEM', 'data visualization', 'data access', 'open organelle', 'open data']
+authors: ['Alyson Petruncio']
+date: '2024-11-26T1:14'
 published: True
 ---
 
