@@ -63,6 +63,8 @@ For a full list of key bindings, visit the [OpenOrganelle FAQ](https://www.openo
 
 ## **Visualizing and Downloading Data with Fiji**
 
+![OpenOrganelle URI to Fiji](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdata5.gif)
+
 For users who prefer local visualization or need to edit and download datasets, importing data into [Fiji](https://imagej.net/software/fiji/) is a practical solution.
 
 ### **Steps to Import Data into Fiji**
