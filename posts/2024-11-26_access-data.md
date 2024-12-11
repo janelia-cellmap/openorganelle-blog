@@ -6,7 +6,7 @@ carousel_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog
 tags: ["FIB-SEM","data visualization","data access","open organelle","open data"]
 authors: ["Alyson Petruncio"]
 date: "2024-12-02T01:14"
-published: true
+published: false
 ---
 
 # A Quick Guide to Accessing Data
