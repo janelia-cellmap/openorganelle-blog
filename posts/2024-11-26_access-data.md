@@ -1,12 +1,12 @@
 ---
 title: Accessing Data
 summary: Guide covering two main tools for dataset interaction
-thumbnail_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner.png
-carousel_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner.png
+thumbnail_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner1.png
+carousel_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/accessdatabanner1.png
 tags: ["FIB-SEM","data visualization","data access","open organelle","open data"]
 authors: ["Alyson Petruncio"]
 date: "2024-12-02T01:14"
-published: false
+published: true
 ---
 
 # A Quick Guide to Accessing Data
