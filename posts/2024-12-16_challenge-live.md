@@ -27,11 +27,11 @@ With such a robust dataset, the challenge is designed to encourage innovative se
 
 **Explore the Data Now:** [OpenOrganelle.org](https://openorganelle.org)  
 
-Access the full collection DOI: [10.25378/janelia.c.7456966](https://doi.org/10.25378/janelia.c.7456966)  
+Access the full collection DOI: [https://doi.org/10.25378/janelia.c.7456966](https://doi.org/10.25378/janelia.c.7456966)  
 
 ---
 
-### How to Participate  
+### How to Participate
 
 1. **Visit the GitHub Repository:** Head over to the [CellMap Segmentation Challenge GitHub](https://github.com/janelia-cellmap/cellmap-segmentation-challenge) for detailed instructions, download scripts, and training examples.  
 2. **Download the Data:** Use the provided tools and scripts to retrieve the datasets.  
