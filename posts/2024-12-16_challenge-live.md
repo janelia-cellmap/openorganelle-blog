@@ -1,10 +1,10 @@
 ---
 title: LIVE - CellMap Segmentation Challenge 
 summary: The CellMap Segmentation Challenge is live! Access annotated electron microscopy datasets and test your machine learning models.
-thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/challenge_banner.png'  
-carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/challenge_banner.png'  
+thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/cellmapsegchallenge.jpeg'  
+carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/cellmapsegchallenge.jpeg'  
 tags: ["FIB-SEM", "machine learning", "segmentation challenge", "groundtruth", "open data"]  
-authors: ["Aubrey Weigel"]  
+authors: ["Aubrey Weigel", "Alyson Petruncio"]  
 date: "2024-12-16T02:01" 
 published: False  
 ---
