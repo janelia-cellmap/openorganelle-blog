@@ -6,7 +6,7 @@ carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blo
 tags: ["FIB-SEM", "machine learning", "segmentation challenge", "groundtruth", "open data"]  
 authors: ["Aubrey Weigel", "Alyson Petruncio"]  
 date: "2024-12-16T02:01" 
-published: True  
+published: False  
 ---
 
 The [CellMap Project Team](https://www.janelia.org/project-team/cellmap) is thrilled to announce that the **CellMap Segmentation Challenge is officially LIVE!** This is your opportunity to push the boundaries of AI-driven biological image analysis by developing segmentation models for a richly detailed collection of electron microscopy datasets.  
