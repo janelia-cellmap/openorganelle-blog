@@ -29,6 +29,8 @@ With such a robust dataset, the challenge is designed to encourage innovative se
 
 **Access the full collection DOI**: [https://doi.org/10.25378/janelia.c.7456966](https://doi.org/10.25378/janelia.c.7456966)  
 
+**Learn more**: Please refer to the [collection DOI write-up](https://doi.org/10.25378/janelia.28034561.v1)
+
 ---
 
 ### 🧪 How to Participate
