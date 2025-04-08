@@ -15,14 +15,14 @@ To expand the acessibility of OpenOrganelle data, we introduce [the OpenOrganell
 
 To locate the dataset on Globus, simply navigate to the OpenOrganelle dataset web page (1-3):
 
-![Globus transfer 1](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus_feature_1.png)
+![Globus transfer 1](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus_transfer_1.png)
 
 and press the "Globus Transfer" button (4):
 
-![Globus transfer 2](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus_feature_2.png)
+![Globus transfer 2](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus_transfer_2.png)
 
 Downloading the data could be done by defining the destination collection (5), selecting the data (6) and pressing the "start" button (7):
 
-![Globus transfer 3](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus_feature_3.png)
+![Globus transfer 3](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus_transfer_3.png)
 
 The GLOBUS transfer is one of the several methods to access the data along with [AWS CLI](https://openorganelle.janelia.org/faq#aws-cli) and [programmatic access with Python](https://openorganelle.janelia.org/faq#python).
