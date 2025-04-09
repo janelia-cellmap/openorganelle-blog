@@ -6,7 +6,7 @@ carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blo
 tags: ["globus", "datasets", "OpenOrganelle", "FIB-SEM", "machine learning"]
 authors: ["Aubrey Weigel", "Yurii Zubov"]
 date: "2025-04-08T01:01"
-published: False
+published: True
 ---
 
 Behold! The OpenOrganelle data is now available on GLOBUS!
