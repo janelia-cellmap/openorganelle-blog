@@ -1,8 +1,8 @@
 ---
 title: New Feature - Globus Transfer!
 summary: Fast transfer of OpenOrganelle data with Globus
-thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus_carousel.png'
-carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus_carousel.png'
+thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus-carousel.png'
+carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/globus-carousel.png'
 tags: ["globus", "datasets", "OpenOrganelle", "FIB-SEM", "machine learning"]
 authors: ["Aubrey Weigel", "Yurii Zubov"]
 date: "2025-04-08T01:01"
